@@ -83,8 +83,8 @@ The `results` folder contains the generated transaction logs and valuation chart
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/antonisbaro/Algorithmic-Trading-Time-Travel.git
+    cd Algorithmic-Trading-Time-Travel
     ```
 
 2.  **Set up a virtual environment (recommended):**
