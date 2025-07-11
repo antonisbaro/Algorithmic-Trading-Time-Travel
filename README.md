@@ -127,8 +127,7 @@ The script will print progress to the console and save the output moves and plot
 ## 💻 Technology Stack
 
 -   **Language**: Python
--   **Core Libraries**: `Pandas`, `NumPy` for data manipulation and vectorized calculations.
--   `Matplotlib` for plotting the results.
+-   **Core Libraries**: `Pandas`, `NumPy` for data manipulation and vectorized calculations, `Matplotlib` for plotting the results.
 
 ---
 
